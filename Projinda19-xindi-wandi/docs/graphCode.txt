@@ -1,0 +1,10 @@
+digraph G {
+  "CashSystem" -> "ProductGUI"
+  "CashSystem" -> "Product"
+  "ProductGUI" -> "CheckoutGUI"
+  "ProductGUI" -> "Product"
+  "ProductGUI" -> "Customer
+  "CheckoutGUI" -> "DoneGUI"
+  "CheckoutGUI" -> "Customer
+  "DoneGUI" -> "ProductGUI"
+}
