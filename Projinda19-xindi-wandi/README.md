@@ -1,3 +1,7 @@
+# Additional information:
+Swing.
+This was a group project and was a reposity on KTH github. 
+I don't know how to upload a from KTH github reposity with histories to Github, so I just copied the files.
 # Project in Introduction to Computer Science
 ### Author: Xindi Liu, Mahdi Wandi
 <br/>
